@@ -23,20 +23,14 @@ export default function ForgiveePage() {
 
           {showContent && (
             <>
-              <h1 className="card-title slide-up">Thank You Jaan! 💖</h1>
+              <h1 className="card-title slide-up">Thank You yrr! 💖</h1>
               <div className="divider" />
 
               <p
                 className="apology-content slide-up delay-2"
                 style={{ opacity: 0 }}
               >
-                You just made me the{'\n'}
-                happiest person alive! 🥹{'\n\n'}
-                I promise I'll make it{'\n'}
-                up to you and never{'\n'}
-                let you down again.{'\n\n'}
-                I love you more than{'\n'}
-                words can ever say... 💕
+                you are damn janta hu mene kia glt kiaa par aaj k baad kbhi nhi hogaa kabhi bhi aapko iske baad nhi hiogaa plzz maaf kar dena jant ahu fir shabdh par iss baar shabdo se zyada kar k bataungaa sab gltia sahi kar lungaa sath me plzz iske baad kbhi bhi nhi hoaa yeh aapne actions me batinga apne aaj tak jo kia sab sahi ki aapko sahi prove karunga sahi kar dunga sab yrrr nhi chor skta na chhata hu kbhi bhi nhi aau ya naa par nhi chorna chhta meri galti h me sahi kar lungaa kbhi bhi nhi hoga sabse pehle dod ka aajungaa baat samnjhe nhi samne ho jaunga khada plzzzz ek baar bhaorsa iske baad kbhi nhi todungaa yrrr anyways.. kbhi bhi nhi
               </p>
 
               <div className="divider" />

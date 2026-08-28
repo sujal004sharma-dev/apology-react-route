@@ -49,21 +49,14 @@ export default function ApologyPage() {
         <h1 className="card-title">Meri Jaan...</h1>
         <div className="divider" />
 
-        <div className="apology-content">
-          I know sorry isn't enough,{'\n'}
-          but I truly mean it from{'\n'}
-          the bottom of my heart.{'\n\n'}
-          You mean everything to me,{'\n'}
-          and hurting you was the{'\n'}
-          last thing I ever wanted.{'\n\n'}
-          Please give me a chance{'\n'}
-          to make things right... 🥺💕
+        <div className="apology-content"> Main jaanta hoon sorry haar- haar baar kehna kaam nahi karta,{' '} {'\n'} par genuinely kitna hurt feel hota hai jab koi aise critical moment pe chhod de.{' '} {'\n\n'} Main jaanta hoon ki main iske layak hoon, par main bahut bahut sorry hoon.{' '} {'\n\n'} Main aisa kabhi nahi karunga yaar — meri jaan, kabhi aisa nahi hoga, sapne mein bhi nahi.{' '} {'\n\n'} Kasam kha kar bol raha hoon: tere kehne pe, tere liye, kuch bhi karne par, tujhe chhod kar nahi jaunga kabhi.{' '} {'\n\n'} Main khud se dimag nahi lagaaunga aur kuch bhi aisa nahi karunga. Main sach mein bahut sorry hoon yaar.{' '} {'\n\n'} Mujhe ek mauka de, please... 🥺💕 {'\n\n'}
+          Apka punishmnet banta h par baat toh karo yrr please yrrr lala plzzzz.
         </div>
 
         <div className="divider" />
 
         <p className="card-subtitle" style={{ marginTop: '16px', marginBottom: '20px' }}>
-          Kya tum mujhe maaf karogi? 🥺
+          Please mujhe maaf karogi? 🥺
         </p>
 
         <div className="forgive-buttons">

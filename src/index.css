@@ -606,12 +606,13 @@ body {
 }
 
 .note-text {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script', ;
   font-size: 15px;
   line-height: 1.7;
   color: #1a1a6e;
   font-style: italic;
   text-align: center;
+  font-weight: 400;
 }
 
 .agreement-actions {

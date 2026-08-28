@@ -112,7 +112,7 @@ export default function AgreementPage() {
           {/* Header */}
           <div className="agreement-header">
             <div className="agreement-seal">📜</div>
-            <h1 className="agreement-title">Agreement of Love</h1>
+            <h1 className="agreement-title">Agreement of prem sath ladai sab bur not chora chari</h1>
             <p className="agreement-date">{today}</p>
           </div>
 
@@ -132,10 +132,14 @@ export default function AgreementPage() {
                 <span className="clause-num">2.</span> I will always listen to your feelings and respect them, even when I don't fully understand.
               </p>
               <p className="agreement-clause">
-                <span className="clause-num">3.</span> I will make every effort to be the person you deserve, every single day.
+                <span className="clause-num">3.</span> I will make every effort to be the person you deserve, every single day Kbhi sirf apne emotions nhi dekhunga aapke samjhunga aap bhi ho glt karta hu abb nhi krunga 
               </p>
               <p className="agreement-clause">
-                <span className="clause-num">4.</span> This agreement is sealed with love and is valid for eternity — no expiration date. 💕
+                <span className="clause-num">4.</span>Never ever ever kabhi bhi khudse na samjhunga ulta naa blank hounga na gussa ma ego kuch nhi bhag k aajunga samne hgi pakad lungaa 
+              </p>
+              <p className="agreement-clause">
+                <span className="clause-num">5.</span>
+                Jnata hu karne se kuch nhi hogaa par fir bhi kar raha hu yr tera sth chhta hu aur tujhe dena chhata hu rahungaa yrrr gurantee h yeeh kbhi bhi nhi jaungaa maa ksm yrrr . 💕
               </p>
             </div>
           </div>
@@ -181,9 +185,11 @@ export default function AgreementPage() {
 
           {/* Final Note */}
           <div className="agreement-note">
-            <p className="note-text">
+            <p className="note-text ">
               "Galtiyan toh hoti hain, par pyaar mein maafi maangna aur maaf karna —
               yahi toh asli pyaar hai. I promise to be better, for you, for us. 🤍"
+
+              Bsss ek baar aakhhri aaj k baad kbhi koi esi glti nhi karungaa glti karunga par esi nhi jo kabhi hurt kare plzzzzzz 
             </p>
           </div>
         </div>

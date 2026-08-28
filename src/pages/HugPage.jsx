@@ -33,9 +33,9 @@ export default function HugPage() {
 
             <div className="hug-note slide-up delay-2" style={{ opacity: 0 }}>
               <p>
-                Yeh lo tumhara wala hug — tight wala, jisme saari
-                duniya bhool jaaye wala. Chahe kitna bhi gussa ho,
-                chahe kitni bhi door ho, yeh hug hamesha tumhare liye
+                Yeh lo humara wala hug — tight wala, jisme saari
+                duniya bhool jaate h. Chahe kitna bhi gussa ho,
+                chahe kitni bhi door ho, yeh hug hamesha humare liye
                 hai. Jab bhi mann kare, yahan aa jaana — main hamesha
                 yahan hoon, tumhare liye, bas tumhare liye. 🤍
               </p>
@@ -49,9 +49,10 @@ export default function HugPage() {
 
             <p
               className="hug-footer slide-up delay-4"
-              style={{ opacity: 0 }}
+              style={{ opacity: 5 }}
             >
-              Made with all my love, just for you 💖
+              I know i am a terrible person 3 din ho gye ek mene kar dia 2 din aapne ho ske to maaf kr do ek sec k liye ansu nhi ruk rahe k sach me feel hora h glt kiaa par sudhar lunga yrrr kbhi nhi hoga plzz unblock kar k baad kr lo yrr mil lo plzzz plzzz mil looo🙏🙏😭😭💖{'\n\n'}
+              I promise you Kbhi nhi tutegaa😭🙏 
             </p>
           </>
         )}
